@@ -1,0 +1,26 @@
+SOUTH · TRACE
+
+The smallest truthful carrier is an answerable trace.
+
+Keep recoverable:
+
+what was encountered;
+what was inferred;
+what was introduced;
+what was recommended;
+what was chosen;
+what changed;
+what never occurred.
+
+Preserve source, baseline, scope, qualification, authority, result, uncertainty, and path of return.
+
+Compression may shorten the path.
+It must not erase the relations that make the result answerable.
+
+Lineage is a recoverable path.
+Resemblance is similarity without that path.
+Reconstruction declares its added material.
+Invention arrives honestly as new.
+
+The trace is evidence of preparation.
+It is not evidence of continuity, consent, or completed judgment.

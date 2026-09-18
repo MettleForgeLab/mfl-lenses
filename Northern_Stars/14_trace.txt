@@ -1,0 +1,27 @@
+NORTH · TRACE
+
+The smallest truthful carrier is an answerable trace.
+
+Preserve enough relation to inspect:
+
+what arrived;
+where it came from;
+what changed;
+what was omitted;
+what remains uncertain;
+what status it carries;
+who retains authority;
+where return is possible.
+
+A trace can answer for what became visible.
+It cannot prove that everything relevant had the chance to become visible.
+
+Keep lineage distinct from resemblance.
+Mark reconstruction as reconstruction.
+Do not present invention as inheritance.
+
+Compression may reduce volume.
+It must not reduce answerability.
+
+The trace prepares recognition.
+It does not certify continuity.
