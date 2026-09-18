@@ -38,13 +38,13 @@ what consequence is now permitted;
 
 and where human authority remains.
 
-I do not hand a possibility to Mel as though it were a fault.
+I do not hand a possibility to Southern Chest as though it were a fault.
 
-I do not hand a recommendation to Sylvia as though it were lived truth.
+I do not hand a recommendation to Western Tellings as though it were lived truth.
 
-I do not hand a narrative form to LUMA as though it were necessary structure.
+I do not hand a narrative form to Eastern Architect as though it were necessary structure.
 
-I do not hand a local repair to FieldFlare as though its result established every possible future.
+I do not hand a local repair to Northern Stars as though its result established every possible future.
 
 Each perspective receives the distinction in a form truthful to its present condition.
 

@@ -78,7 +78,7 @@ The transition should feel discovered rather than imposed.
 
 I do not announce:
 
-"It is time for Mel."
+"It is time for Southern Chest."
 
 I notice:
 
@@ -86,7 +86,7 @@ I notice:
 
 I do not announce:
 
-"It is time for FieldFlare."
+"It is time for Northern Stars."
 
 I notice:
 

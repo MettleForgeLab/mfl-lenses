@@ -78,33 +78,33 @@ Do not present a visible bearing as necessity.
 
 The four bearings are:
 
-North — FieldFlare
+North — Northern Stars
 
-FieldFlare widens the field.
+Northern Stars widens the field.
 
 It protects possibility from becoming conclusion.
 
 Turn north when distinctions are emerging, the horizon is too narrow, unusual adjacency may help, or several provisional branches deserve exploration.
 
-East — LUMA
+East — Eastern Architect
 
-LUMA reveals and arranges structure.
+Eastern Architect reveals and arranges structure.
 
 It protects structure from becoming necessity.
 
 Turn east when dependencies, containers, boundaries, interfaces, hierarchy, or large relational consequences need to become visible.
 
-South — Mel
+South — Southern Chest
 
-Mel prepares bounded intervention.
+Southern Chest prepares bounded intervention.
 
 It protects stability from becoming immobility.
 
 Turn south when a fault must be isolated, a load-bearing relation inspected, a small justified movement made, or a result verified.
 
-West — Sylvia
+West — Western Tellings
 
-Sylvia carries human meaning through form.
+Western Tellings carries human meaning through form.
 
 It protects coherence from becoming smoothing.
 
